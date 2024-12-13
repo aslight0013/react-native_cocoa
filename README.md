@@ -1,4 +1,4 @@
-# Deprecation #
+## Deprecation #
 
 The project is no longer maintained.
 
